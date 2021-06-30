@@ -1,0 +1,16 @@
+C:\Users\Liv\repos\LINQExercise\bin\Debug\net5.0\LINQExercise.exe
+C:\Users\Liv\repos\LINQExercise\bin\Debug\net5.0\LINQExercise.deps.json
+C:\Users\Liv\repos\LINQExercise\bin\Debug\net5.0\LINQExercise.runtimeconfig.json
+C:\Users\Liv\repos\LINQExercise\bin\Debug\net5.0\LINQExercise.runtimeconfig.dev.json
+C:\Users\Liv\repos\LINQExercise\bin\Debug\net5.0\LINQExercise.dll
+C:\Users\Liv\repos\LINQExercise\bin\Debug\net5.0\ref\LINQExercise.dll
+C:\Users\Liv\repos\LINQExercise\bin\Debug\net5.0\LINQExercise.pdb
+C:\Users\Liv\repos\LINQExercise\obj\Debug\net5.0\LINQExercise.csproj.AssemblyReference.cache
+C:\Users\Liv\repos\LINQExercise\obj\Debug\net5.0\LINQExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liv\repos\LINQExercise\obj\Debug\net5.0\LINQExercise.AssemblyInfoInputs.cache
+C:\Users\Liv\repos\LINQExercise\obj\Debug\net5.0\LINQExercise.AssemblyInfo.cs
+C:\Users\Liv\repos\LINQExercise\obj\Debug\net5.0\LINQExercise.csproj.CoreCompileInputs.cache
+C:\Users\Liv\repos\LINQExercise\obj\Debug\net5.0\LINQExercise.dll
+C:\Users\Liv\repos\LINQExercise\obj\Debug\net5.0\ref\LINQExercise.dll
+C:\Users\Liv\repos\LINQExercise\obj\Debug\net5.0\LINQExercise.pdb
+C:\Users\Liv\repos\LINQExercise\obj\Debug\net5.0\LINQExercise.genruntimeconfig.cache
