@@ -11,17 +11,9 @@ class Program
         List<string> videoGames = new List<string>
             {"Horizon Zero Dawn", "Forza", "Infamous", "Overwatch"};
 
-        foreach (string game in SortByLength(videoGames))
+        var sort = videoGames.OrderBy(game => game.Length);
+        foreach (var game in sort)
         {
             Console.WriteLine(game);
         }
-        static IEnumerable<string>
-            SortByLength(IEnumerable<string> e)
-            {
-            var sorted = from game in e
-                         orderby game.Length ascending
-                         select game;
-            return sorted;
-        }
-    } 
-}
+ } }
